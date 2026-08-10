@@ -1,15 +1,19 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sabarinathan;Aspiring+Data+Analyst;Turning+raw+data+into+insights" />
 </p>
+
 <h1 align="center">Hi, I'm Sabarinathan 👋</h1>
 <h3 align="center">Aspiring Data Analyst & Data Scientist | CSBS Final Year Student</h3>
 
 <p align="center">
   Turning raw data into real insights.
 </p>
+
+---
+
 ### 💻 Quick Look
 
-​```python
+```python
 def profile():
     return {
         "name": "Sabarinathan S",
@@ -17,7 +21,8 @@ def profile():
         "skills": ["Python", "SQL", "PowerBI", "Excel"],
         "status": "Open to work"
     }
-​```
+```
+
 ---
 
 ### ⚙️ Tech Stack
