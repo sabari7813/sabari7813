@@ -1,100 +1,94 @@
-# 👋 SABARINATHAN S
+<!-- ===================== HERO ===================== -->
+
+<h1 align="center">Hi 👋, I'm Sabarinathan S</h1>
+
+<h3 align="center">
+  Data Analyst | Python | SQL | Excel | Power BI
+</h3>
 
 <p align="center">
-  <b>Data Analyst | Python | SQL | Excel | Power BI</b>
+  Turning data into meaningful insights and practical solutions.
 </p>
-
-<p align="center">
-  <i>Turning raw data into meaningful insights and building practical solutions.</i>
-</p>
-
----
-
-<p align="center">
-  <img 
-    src="./assets/portfolio-banner.png"
-    width="100%"
-    alt="Sabarinathan S - Data Analyst"
-  />
-</p>
-
----
-
-<table>
-<tr>
-
-<td width="35%" align="center" valign="top">
 
 <br>
 
-<img 
-  src="./assets/project-profile.png"
-  width="100%"
-  alt="Sabarinathan S working as a Data Analyst"
-/>
+<!-- ===================== FIRST CREATED IMAGE ===================== -->
 
-</td>
+<p align="center">
+  <img
+    src="./assets/first-created-image.png"
+    width="85%"
+    alt="Sabarinathan"
+  />
+</p>
 
-<td width="65%" valign="top">
+<br>
+
+<!-- ===================== ABOUT ME ===================== -->
+
+<h2>👨‍💻 About Me</h2>
+
+<p>
+I'm passionate about Data Analytics, Python, SQL, Machine Learning,
+and Business Intelligence. I enjoy working with data, finding useful
+patterns, creating dashboards, and converting complex information into
+clear insights.
+</p>
+
+<p>
+Currently focused on improving my analytical, technical, and
+problem-solving skills through practical projects and continuous learning.
+</p>
+
+<br>
+
+<!-- ===================== WORK + KEY PROJECTS ===================== -->
 
 <h2>🚀 Key Projects</h2>
 
 <table width="100%">
-
 <tr>
-<th align="left">Project</th>
-<th align="left">Tech Stack</th>
-<th align="center">⭐</th>
-</tr>
 
-<tr>
-<td>
-<a href="https://github.com/sabari7813/ai-cost-watchdog">
-AI Cost Watchdog
-</a>
+<td width="42%" align="center" valign="top">
+
+<img
+  src="./assets/project-profile.png"
+  width="100%"
+  alt="Sabarinathan working on a computer"
+/>
+
 </td>
-<td>Python • Streamlit</td>
-<td align="center">⭐</td>
-</tr>
 
-<tr>
-<td>
-<a href="https://github.com/sabari7813/tracking-dairy">
-Tracking Dairy
-</a>
-</td>
-<td>HTML • CSS</td>
-<td align="center">⭐</td>
-</tr>
+<td width="58%" valign="top">
 
-<tr>
-<td>
-<a href="https://github.com/sabari7813/portfolio">
-Portfolio
-</a>
-</td>
-<td>HTML • CSS • JavaScript</td>
-<td align="center">⭐</td>
-</tr>
+<h3>🚀 Key Projects</h3>
 
-<tr>
-<td>
-<a href="https://github.com/sabari7813/100-_days_coding_challenges">
-100 Days Coding Challenges
-</a>
-</td>
-<td>Python</td>
-<td align="center">⭐</td>
-</tr>
-
-</table>
-
-<br>
-
-<h3>🎯 Focus</h3>
+<h4>🤖 AI Cost Watchdog</h4>
 
 <p>
-Data Analytics • Python • SQL • Machine Learning
+An AI-focused project designed to monitor and analyse costs,
+helping identify unnecessary usage and improve cost efficiency.
+</p>
+
+<h4>🥛 Tracking Dairy</h4>
+
+<p>
+A data-driven dairy tracking project focused on organising,
+monitoring, and analysing dairy-related information.
+</p>
+
+<h4>🌐 Personal Portfolio</h4>
+
+<p>
+A personal portfolio showcasing my skills, projects,
+technical knowledge, and achievements.
+</p>
+
+<h4>💻 100 Days Coding Challenge</h4>
+
+<p>
+A continuous coding journey focused on improving programming,
+problem-solving, and consistency through daily practice.
 </p>
 
 </td>
@@ -102,41 +96,107 @@ Data Analytics • Python • SQL • Machine Learning
 </tr>
 </table>
 
----
+<br>
 
-<h2>📊 GitHub Stats & Graphs</h2>
+<!-- ===================== SKILLS ===================== -->
+
+<h2>🛠️ Technical Skills</h2>
 
 <p align="center">
 
-<h2>📊 GitHub Stats & Graphs</h2>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</p>
+
+<br>
+
+<!-- ===================== WHAT I DO ===================== -->
+
+<h2>📊 What I Do</h2>
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+### 📈 Data Analytics
+
+- Data Cleaning
+- Data Exploration
+- Data Visualization
+- Statistical Analysis
+- Business Insights
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 Machine Learning
+
+- Data Preparation
+- Feature Analysis
+- Model Development
+- Model Evaluation
+- Predictive Analysis
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+<hr>
+
+<h2 align="center">📊 GitHub Stats & Graphs</h2>
+
+<br>
 
 <p align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=sabari7813&show_icons=true&theme=tokyonight"
+  src="https://github-readme-stats.vercel.app/api?username=sabari7813&show_icons=true&theme=tokyonight&hide_border=false&count_private=true"
   alt="Sabarinathan GitHub Stats"
   width="48%"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabari7813&layout=compact&theme=tokyonight"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabari7813&layout=compact&theme=tokyonight&hide_border=false"
   alt="Top Languages"
   width="48%"
 />
 
 </p>
 
+<br>
+
 <p align="center">
 
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=sabari7813&theme=tokyonight"
-  alt="GitHub Streak"
+  alt="Sabarinathan GitHub Streak"
   width="70%"
 />
 
 </p>
 
-<h2>📈 Contribution Graph</h2>
+<br>
+
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+
+<h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
 
@@ -148,125 +208,40 @@ Data Analytics • Python • SQL • Machine Learning
 
 </p>
 
-</p>
+<br>
 
----
+<!-- ===================== CURRENT FOCUS ===================== -->
 
-<p align="center">
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=sabari7813&theme=tokyonight&hide_border=false"
-  alt="GitHub Streak"
-  width="70%"
-/>
-
-</p>
-
----
-
-<h2>📈 Contribution Graph</h2>
+<h2>🎯 Current Focus</h2>
 
 <p align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=sabari7813&theme=tokyo-night&hide_border=false"
-  alt="Sabarinathan Contribution Graph"
-  width="95%"
-/>
+📊 Data Analytics &nbsp; • &nbsp;
+🐍 Python &nbsp; • &nbsp;
+🗄️ SQL &nbsp; • &nbsp;
+📈 Power BI &nbsp; • &nbsp;
+🤖 Machine Learning
 
 </p>
 
----
+<br>
 
-<h2>🛠️ Technical Skills</h2>
+<!-- ===================== CONNECT ===================== -->
 
-<table>
-<tr>
-
-<td align="center">
-🐍<br>
-<b>Python</b>
-</td>
-
-<td align="center">
-🗄️<br>
-<b>SQL</b>
-</td>
-
-<td align="center">
-📊<br>
-<b>Data Analytics</b>
-</td>
-
-<td align="center">
-📈<br>
-<b>Power BI</b>
-</td>
-
-<td align="center">
-📗<br>
-<b>Excel</b>
-</td>
-
-</tr>
-</table>
-
----
-
-<h2>📚 Currently Learning</h2>
-
-- 📊 Advanced Data Analytics
-- 🐍 Python for Data Science
-- 🗄️ SQL & Database Management
-- 🤖 Machine Learning
-- 📈 Data Visualization
-- 💡 Real-world Problem Solving
-
----
-
-<h2>💡 About Me</h2>
-
-<p>
-I am a final-year Computer Science and Business Systems student
-with a strong interest in Data Analytics, Python, SQL and Machine Learning.
-</p>
-
-<p>
-I enjoy working with data, finding useful patterns, creating dashboards
-and turning complex problems into simple and practical solutions.
-</p>
-
-<p>
-🚀 Currently preparing for placements and continuously improving my
-technical and problem-solving skills.
-</p>
-
----
-
-<h2>📫 Connect With Me</h2>
+<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
 
 <a href="https://github.com/sabari7813">
-<img src="https://img.shields.io/badge/GitHub-sabari7813-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Sabarinathan-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://sabarinathanportfolio7.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-green?style=for-the-badge&logo=google-chrome"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+  />
 </a>
 
 </p>
 
----
+<br>
 
 <p align="center">
-  <b>⭐ Thanks for visiting my profile!</b>
-</p>
-
-<p align="center">
-  <i>Let's learn, build and grow together 🚀</i>
+  <i>Thanks for visiting my profile! 🚀</i>
 </p>
