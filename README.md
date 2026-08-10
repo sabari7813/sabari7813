@@ -1,6 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00C9A7&center=true&vCenter=true&random=false&width=850&lines=Hey+%F0%9F%91%8B%2C+I'm+Sabarinathan+S;Data+Analyst;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Turning+Data+into+Meaningful+Insights+%F0%9F%93%8A" />
+  Sabarinathan S
 </h1>
+
+<p align="center">
+  <b>📊 Data Analyst | Python | SQL | Excel | Power BI</b>
+</p>
 
 <p align="center">
   <img
@@ -11,17 +15,13 @@
 
 <br/>
 
-<!-- ========================= -->
-<!-- PROFILE + PROJECTS -->
-<!-- ========================= -->
-
-<table width="100%">
+<table width="100%" cellpadding="12" cellspacing="0">
 <tr>
 
-<td width="35%" align="center">
+<td width="35%" align="center" valign="top">
 
 <img
-  src="https://github-readme-avatars.vercel.app/api/sabari7813"
+  src="https://github.com/sabari7813.png?size=300"
   width="220"
   alt="Sabarinathan"
 />
@@ -56,12 +56,12 @@
 
 <h2>🚀 Key Projects</h2>
 
-<table width="100%">
+<table width="100%" cellpadding="10" cellspacing="0">
 
 <tr>
-<th align="left">Project</th>
-<th align="left">Tech Stack</th>
-<th align="center">Status</th>
+<th align="left" width="45%">Project</th>
+<th align="left" width="40%">Tech Stack</th>
+<th align="center" width="15%">Status</th>
 </tr>
 
 <tr>
@@ -73,11 +73,13 @@
 
 <td>
 <code>Python</code>
+&nbsp;
 <code>Pandas</code>
+&nbsp;
 <code>Streamlit</code>
 </td>
 
-<td align="center">⭐ Featured</td>
+<td align="center">⭐</td>
 </tr>
 
 <tr>
@@ -87,6 +89,7 @@
 
 <td>
 <code>Python</code>
+&nbsp;
 <code>Matplotlib</code>
 </td>
 
@@ -100,6 +103,7 @@
 
 <td>
 <code>SQL</code>
+&nbsp;
 <code>MySQL</code>
 </td>
 
@@ -113,6 +117,7 @@
 
 <td>
 <code>Excel</code>
+&nbsp;
 <code>Pivot Tables</code>
 </td>
 
@@ -126,6 +131,7 @@
 
 <td>
 <code>HTML</code>
+&nbsp;
 <code>CSS</code>
 </td>
 
@@ -147,10 +153,6 @@
 
 <br/>
 
-<!-- ========================= -->
-<!-- ABOUT ME -->
-<!-- ========================= -->
-
 <h2 align="center">⚡ About Me</h2>
 
 <p align="center">
@@ -165,10 +167,6 @@
 
 <br/>
 
-<!-- ========================= -->
-<!-- TECH STACK -->
-<!-- ========================= -->
-
 <h2 align="center">🛠️ Data Analytics Tech Stack</h2>
 
 <p align="center">
@@ -179,7 +177,7 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -190,10 +188,6 @@
 </p>
 
 <br/>
-
-<!-- ========================= -->
-<!-- GITHUB STATS -->
-<!-- ========================= -->
 
 <h2 align="center">📊 GitHub Stats & Graphs</h2>
 
@@ -215,10 +209,6 @@ height="180"
 
 <br/>
 
-<!-- ========================= -->
-<!-- STREAK -->
-<!-- ========================= -->
-
 <p align="center">
 
 <img
@@ -229,10 +219,6 @@ width="700"
 </p>
 
 <br/>
-
-<!-- ========================= -->
-<!-- CONTRIBUTION GRAPH -->
-<!-- ========================= -->
 
 <h2 align="center">📈 Contribution Graph</h2>
 
@@ -247,10 +233,6 @@ width="900"
 
 <br/>
 
-<!-- ========================= -->
-<!-- TROPHIES -->
-<!-- ========================= -->
-
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
@@ -263,10 +245,6 @@ width="850"
 </p>
 
 <br/>
-
-<!-- ========================= -->
-<!-- SNAKE -->
-<!-- ========================= -->
 
 <h2 align="center">🐍 Watch the snake eat my contributions</h2>
 
@@ -282,10 +260,6 @@ width="900"
 
 <br/>
 
-<!-- ========================= -->
-<!-- CONNECT -->
-<!-- ========================= -->
-
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
@@ -294,25 +268,27 @@ width="900"
 <img src="https://img.shields.io/badge/Email-00C9A7?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/sabarinathans29/">
 <img src="https://img.shields.io/badge/LinkedIn-2196F3?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://sabarinathanportfolio7.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://github.com/sabari7813">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
+
+<br/>
 
 <p align="center">
 
