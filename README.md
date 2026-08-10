@@ -129,17 +129,20 @@ Personal Portfolio
 
 <p align="center">
 
+
 <img
-  src="https://github-readme-stats.vercel.app/api?username=sabari7813&show_icons=true&theme=tokyonight&hide_border=false&count_private=true"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=sabari7813&show_icons=true&theme=tokyonight&hide_border=false&count_private=true"
   alt="Sabarinathan GitHub Stats"
   width="48%"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabari7813&layout=compact&theme=tokyonight&hide_border=false"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sabari7813&layout=compact&theme=tokyonight&hide_border=false"
   alt="Top Languages"
   width="48%"
 />
+
+</p>
 
 </p>
 
