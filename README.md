@@ -1,107 +1,53 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sabarinathan;Aspiring+Data+Analyst;Turning+raw+data+into+insights" />
-</p>
+<!-- ========================= -->
+<!--        HERO SECTION       -->
+<!-- ========================= -->
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<div align="center">
 
-<sub>sabari7813@dev-machine</sub> <sub>cat README.md</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=SABARINATHAN%20S&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20PYTHON%20%7C%20SQL%20%7C%20EXCEL&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-# Hi, I'm
+<br>
 
-# Sabarinathan
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=750&lines=Welcome+to+my+data+analytics+workspace+%F0%9F%93%8A;Turning+raw+data+into+meaningful+insights+%F0%9F%94%8D;Python+%7C+SQL+%7C+Excel+%7C+Pandas+%7C+Matplotlib;Building+data-driven+projects+and+learning+every+day+%F0%9F%9A%80" />
 
-### Aspiring Data Analyst & Data Scientist
+<br>
 
-> I don't just analyze data,
-> I turn it into decisions.
+<a href="https://sabarinathanportfolio7.netlify.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-36BCF7?style=for-the-badge"/>
+</a>
 
-### ⚙️ Tech Stack
+<a href="https://github.com/sabari7813">
+<img src="https://img.shields.io/badge/GitHub-sabari7813-181717?style=for-the-badge&logo=github"/>
+</a>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<a href="https://www.linkedin.com/in/sabarinathans29/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-### ⚡ About Me
-- 🔍 I build data-driven insights using Python & SQL
-- 📊 Always learning, constantly analyzing
-- 🚀 Turning raw numbers into real decisions
-
-</td>
-<td width="40%" align="center">
-
-<img src="./undraw_all-the-data_ijgn.png" width="380"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-### 📌 Quick Stats
+<!-- ========================= -->
+<!--       TERMINAL INTRO      -->
+<!-- ========================= -->
 
-| 📦 Repos | 💻 Commits | ⭐ Stars | 👥 Followers |
-|:---:|:---:|:---:|:---:|
-| 5 | 29+ | 1 | 0 |
+## 🖥️ `sabari@data-analyst:~$`
 
----
-
-### 🚀 Key Projects
-
-| Project | Tech Stack | Description |
-|---|---|---|
-| [TokenSentry](https://github.com/sabari7813/ai-cost-watchdog) | `Python` `Dashboard` | Real-time AI cost & token usage monitor across GPT-4, Claude & Gemini |
-
-> *"Data speaks, if you know how to listen."*
-
----
-
-### 📊 GitHub Stats & Graphs
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabari7813&show_icons=true&theme=midnight-purple&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabari7813&layout=compact&theme=midnight-purple&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabari7813&theme=midnight-purple&hide_border=true" alt="streak stats"/>
-</p>
-
-### ☑️ Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabari7813&theme=react-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sabari7813&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 🐍 Watch the snake eat my contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sabari7813/sabari7813/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:sabarinathan0828@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-orange?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="https://img.shields.io/badge/-LINKEDIN-purple?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://sabarinathanportfolio7.netlify.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-orange?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://github.com/sabari7813"><img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabari7813&label=PROFILE+VIEWS&color=blueviolet&style=flat"/>
-</p>
-
-<p align="center"><i>⭐ Always learning, always building. 🚀</i></p>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  > Initializing Data Analytics Profile...                    │
+│                                                              │
+│  [✓] Python environment loaded                               │
+│  [✓] SQL engine connected                                    │
+│  [✓] Data visualization modules ready                       │
+│  [✓] Analytical mindset activated                           │
+│                                                              │
+│  User        : Sabarinathan S                                │
+│  Role        : Aspiring Data Analyst & Data Scientist       │
+│  Education   : B.Tech Computer Science & Business Systems   │
+│  CGPA        : 8.33                                          │
+│  Status      : Building • Learning • Analyzing              │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
