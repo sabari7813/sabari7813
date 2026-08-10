@@ -8,8 +8,9 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2196F3,100:7C3AED&height=180&section=header&text=DATA%20ANALYTICS&fontSize=42&fontColor=ffffff&animation=fadeIn"
+    src="./ChatGPT%20Image%20Aug%2010,%202026,%2002_05_58%20PM.png"
     width="100%"
+    alt="Sabarinathan S - Data Analyst"
   />
 </p>
 
