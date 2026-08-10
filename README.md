@@ -1,55 +1,29 @@
-<!-- ===================== HERO ===================== -->
-
 <h1 align="center">Hi 👋, I'm Sabarinathan S</h1>
 
-<h3 align="center">
-  Data Analyst | Python | SQL | Excel | Power BI
-</h3>
-
 <p align="center">
-  Turning data into meaningful insights and practical solutions.
+  <b>Data Analyst | Python | SQL | Excel | Power BI</b>
 </p>
 
 <br>
 
-<!-- ===================== FIRST CREATED IMAGE ===================== -->
+<!-- FIRST IMAGE -->
 
 <p align="center">
   <img
-    src="./assets/first-created-image.png"
-    width="85%"
+    src="./assets/portfolio-banner.png"
+    width="90%"
     alt="Sabarinathan"
   />
 </p>
 
 <br>
 
-<!-- ===================== ABOUT ME ===================== -->
-
-<h2>👨‍💻 About Me</h2>
-
-<p>
-I'm passionate about Data Analytics, Python, SQL, Machine Learning,
-and Business Intelligence. I enjoy working with data, finding useful
-patterns, creating dashboards, and converting complex information into
-clear insights.
-</p>
-
-<p>
-Currently focused on improving my analytical, technical, and
-problem-solving skills through practical projects and continuous learning.
-</p>
-
-<br>
-
-<!-- ===================== WORK + KEY PROJECTS ===================== -->
-
-<h2>🚀 Key Projects</h2>
+<!-- KEY PROJECTS -->
 
 <table width="100%">
 <tr>
 
-<td width="42%" align="center" valign="top">
+<td width="40%" align="center" valign="middle">
 
 <img
   src="./assets/project-profile.png"
@@ -59,36 +33,36 @@ problem-solving skills through practical projects and continuous learning.
 
 </td>
 
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
-<h3>🚀 Key Projects</h3>
+<h2>🚀 Key Projects</h2>
 
-<h4>🤖 AI Cost Watchdog</h4>
+<h3>🤖 AI Cost Watchdog</h3>
 
 <p>
-An AI-focused project designed to monitor and analyse costs,
-helping identify unnecessary usage and improve cost efficiency.
+AI-based project focused on monitoring and analysing costs
+and improving cost efficiency.
 </p>
 
-<h4>🥛 Tracking Dairy</h4>
+<h3>🥛 Tracking Dairy</h3>
 
 <p>
-A data-driven dairy tracking project focused on organising,
-monitoring, and analysing dairy-related information.
+Data-driven project for tracking and analysing dairy-related
+information.
 </p>
 
-<h4>🌐 Personal Portfolio</h4>
+<h3>🌐 Personal Portfolio</h3>
 
 <p>
-A personal portfolio showcasing my skills, projects,
-technical knowledge, and achievements.
+Personal portfolio showcasing skills, projects and
+technical knowledge.
 </p>
 
-<h4>💻 100 Days Coding Challenge</h4>
+<h3>💻 100 Days Coding Challenge</h3>
 
 <p>
-A continuous coding journey focused on improving programming,
-problem-solving, and consistency through daily practice.
+A continuous coding journey focused on programming,
+problem-solving and consistency.
 </p>
 
 </td>
@@ -97,66 +71,6 @@ problem-solving, and consistency through daily practice.
 </table>
 
 <br>
-
-<!-- ===================== SKILLS ===================== -->
-
-<h2>🛠️ Technical Skills</h2>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-
-</p>
-
-<br>
-
-<!-- ===================== WHAT I DO ===================== -->
-
-<h2>📊 What I Do</h2>
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-### 📈 Data Analytics
-
-- Data Cleaning
-- Data Exploration
-- Data Visualization
-- Statistical Analysis
-- Business Insights
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 Machine Learning
-
-- Data Preparation
-- Feature Analysis
-- Model Development
-- Model Evaluation
-- Predictive Analysis
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<!-- ===================== GITHUB STATS ===================== -->
 
 <hr>
 
@@ -190,58 +104,4 @@ problem-solving, and consistency through daily practice.
   width="70%"
 />
 
-</p>
-
-<br>
-
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=sabari7813&theme=tokyo-night"
-  alt="Sabarinathan Contribution Graph"
-  width="95%"
-/>
-
-</p>
-
-<br>
-
-<!-- ===================== CURRENT FOCUS ===================== -->
-
-<h2>🎯 Current Focus</h2>
-
-<p align="center">
-
-📊 Data Analytics &nbsp; • &nbsp;
-🐍 Python &nbsp; • &nbsp;
-🗄️ SQL &nbsp; • &nbsp;
-📈 Power BI &nbsp; • &nbsp;
-🤖 Machine Learning
-
-</p>
-
-<br>
-
-<!-- ===================== CONNECT ===================== -->
-
-<h2 align="center">🤝 Let's Connect</h2>
-
-<p align="center">
-
-<a href="https://github.com/sabari7813">
-  <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-  />
-</a>
-
-</p>
-
-<br>
-
-<p align="center">
-  <i>Thanks for visiting my profile! 🚀</i>
 </p>
