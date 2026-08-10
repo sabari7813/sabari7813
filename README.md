@@ -152,7 +152,15 @@ Personal Portfolio
 
 </tr>
 </table>
+<h2 align="center">📈 Contribution Graph</h2>
 
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sabari7813&bg_color=0d1117&color=ffffff&line=ffa500&point=ffffff&area=true&hide_border=true"
+    alt="Sabari Nathan's Contribution Graph"
+    width="95%"
+  />
+</p>
 <br>
 
 <p align="center">
