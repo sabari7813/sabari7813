@@ -2,28 +2,20 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sabarinathan;Aspiring+Data+Analyst;Turning+raw+data+into+insights" />
 </p>
 
-<h1 align="center">Hi, I'm Sabarinathan 👋</h1>
-<h3 align="center">Aspiring Data Analyst & Data Scientist | CSBS Final Year Student</h3>
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<p align="center">
-  Turning raw data into real insights.
-</p>
+<sub>sabari7813@dev-machine</sub> <sub>cat README.md</sub>
 
----
+# Hi, I'm
 
-### 💻 Quick Look
+# Sabarinathan
 
-```python
-def profile():
-    return {
-        "name": "Sabarinathan S",
-        "role": "Data Analyst",
-        "skills": ["Python", "SQL", "PowerBI", "Excel"],
-        "status": "Open to work"
-    }
-```
+### Aspiring Data Analyst & Data Scientist
 
----
+> I don't just analyze data,
+> I turn it into decisions.
 
 ### ⚙️ Tech Stack
 
@@ -35,7 +27,26 @@ def profile():
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ### ⚡ About Me
-Final year CSBS student passionate about Python, Data Analytics, and Machine Learning. Currently preparing for placements and building real-world data projects.
+- 🔍 I build data-driven insights using Python & SQL
+- 📊 Always learning, constantly analyzing
+- 🚀 Turning raw numbers into real decisions
+
+</td>
+<td width="40%" align="center">
+
+<img src="./undraw_all-the-data_ijgn.png" width="380"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📌 Quick Stats
+
+| 📦 Repos | 💻 Commits | ⭐ Stars | 👥 Followers |
+|:---:|:---:|:---:|:---:|
+| 5 | 29+ | 1 | 0 |
 
 ---
 
@@ -93,4 +104,4 @@ Final year CSBS student passionate about Python, Data Analytics, and Machine Lea
   <img src="https://komarev.com/ghpvc/?username=sabari7813&label=PROFILE+VIEWS&color=blueviolet&style=flat"/>
 </p>
 
-<p align="center"><i>⭐ Always learning, always building. 🚀</i></p>
+<p
