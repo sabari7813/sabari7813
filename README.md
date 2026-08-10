@@ -12,18 +12,19 @@
 <tr>
 
 <!-- LEFT SIDE - SECOND IMAGE -->
-<td width="35%" align="center" valign="middle">
+<td width="40%" align="center" valign="top" style="padding:0;">
 
 <img
   src="https://raw.githubusercontent.com/sabari7813/sabari7813/main/assets/project-profile.png"
   width="100%"
   alt="Sabarinathan S working as a Data Analyst"
+  style="display:block;"
 />
 
 </td>
 
 <!-- RIGHT SIDE - PROJECTS -->
-<td width="65%" valign="top">
+<td width="60%" valign="top" style="padding:0 0 0 10px;">
 
 <h2>🚀 Key Projects</h2>
 
