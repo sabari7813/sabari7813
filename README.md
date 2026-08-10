@@ -152,21 +152,37 @@ Personal Portfolio
 
 </tr>
 </table>
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+
+<br>
+
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=sabari7813&bg_color=0d1117&color=ffffff&line=ffa500&point=ffffff&area=true&hide_border=true"
-    alt="Sabari Nathan's Contribution Graph"
+    alt="Sabarinathan's Contribution Graph"
     width="95%"
   />
 </p>
-<br>
 
-<p align="center">
+<br>
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=sabari7813&theme=tokyonight"
     alt="Sabarinathan GitHub Streak"
     width="65%"
   />
 </p>
+<!-- ===================== GITHUB ACHIEVEMENTS ===================== -->
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sabari7813&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=6"
+    alt="Sabarinathan's GitHub Achievements"
+    width="95%"
+  />
+</p>
+
+<br>
