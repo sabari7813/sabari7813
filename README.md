@@ -1,34 +1,61 @@
+# 👋 SABARINATHAN S
+
 <p align="center">
-  <img
+  <b>Data Analyst | Python | SQL | Excel | Power BI</b>
+</p>
+
+<p align="center">
+  <i>Turning raw data into meaningful insights and building practical solutions.</i>
+</p>
+
+---
+
+<p align="center">
+  <img 
     src="./assets/portfolio-banner.png"
     width="100%"
     alt="Sabarinathan S - Data Analyst"
   />
 </p>
 
-<br>
+---
 
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+<table>
 <tr>
 
-<!-- LEFT SIDE - SECOND IMAGE -->
-<td width="40%" align="center" valign="top" style="padding:0;">
+<td width="35%" align="center" valign="top">
 
-<img
-  src="https://raw.githubusercontent.com/sabari7813/sabari7813/main/assets/project-profile.png"
+<br>
+
+<img 
+  src="./assets/project-profile.png"
   width="100%"
   alt="Sabarinathan S working as a Data Analyst"
-  style="display:block;"
 />
+
+<br><br>
+
+<h3>SABARINATHAN S</h3>
+
+<p><b>Data Analyst</b></p>
+
+<p>
+🐍 Python • 🗄️ SQL • 📊 Excel • 📈 Power BI
+</p>
+
+<p>
+📊 Data Analytics<br>
+🤖 Machine Learning<br>
+💻 Problem Solving
+</p>
 
 </td>
 
-<!-- RIGHT SIDE - PROJECTS -->
-<td width="60%" valign="top" style="padding:0 0 0 10px;">
+<td width="65%" valign="top">
 
 <h2>🚀 Key Projects</h2>
 
-<table width="100%" cellspacing="0" cellpadding="6">
+<table width="100%">
 
 <tr>
 <th align="left">Project</th>
@@ -91,12 +118,57 @@ Data Analytics • Python • SQL • Machine Learning
 </tr>
 </table>
 
-<br>
+---
+
+<h2>📊 GitHub Stats & Graphs</h2>
+
+<p align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=sabari7813&show_icons=true&theme=tokyonight&hide_border=false&count_private=true"
+  alt="Sabarinathan GitHub Stats"
+  width="49%"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabari7813&layout=compact&theme=tokyonight&hide_border=false"
+  alt="Top Languages"
+  width="49%"
+/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=sabari7813&theme=tokyonight&hide_border=false"
+  alt="GitHub Streak"
+  width="70%"
+/>
+
+</p>
+
+---
+
+<h2>📈 Contribution Graph</h2>
+
+<p align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=sabari7813&theme=tokyo-night&hide_border=false"
+  alt="Sabarinathan Contribution Graph"
+  width="95%"
+/>
+
+</p>
+
+---
 
 <h2>🛠️ Technical Skills</h2>
 
-<table width="100%" cellspacing="0" cellpadding="8">
-
+<table>
 <tr>
 
 <td align="center">
@@ -124,103 +196,65 @@ Data Analytics • Python • SQL • Machine Learning
 <b>Excel</b>
 </td>
 
-<td align="center">
-🐼<br>
-<b>Pandas</b>
-</td>
-
-<td align="center">
-🔢<br>
-<b>NumPy</b>
-</td>
-
 </tr>
-
 </table>
 
-<br>
-
-<h2>👨‍💻 About Me</h2>
-
-<p>
-I am a final-year Computer Science and Business Systems student
-passionate about Data Analytics, Python, SQL and Machine Learning.
-</p>
-
-<p>
-I enjoy working with data, finding meaningful patterns, creating
-dashboards and solving real-world problems using technology.
-</p>
-
-<p>
-I am continuously learning and building projects to improve my
-technical and analytical skills.
-</p>
-
-<br>
-
-<h2>📌 What I Do</h2>
-
-<table width="100%" cellspacing="0" cellpadding="8">
-
-<tr>
-
-<td width="33%" align="center">
-📊<br>
-<b>Data Analysis</b>
-<br>
-<small>Analyse data and find useful insights</small>
-</td>
-
-<td width="33%" align="center">
-📈<br>
-<b>Data Visualization</b>
-<br>
-<small>Create dashboards and meaningful reports</small>
-</td>
-
-<td width="33%" align="center">
-💻<br>
-<b>Problem Solving</b>
-<br>
-<small>Build practical solutions using Python</small>
-</td>
-
-</tr>
-
-</table>
-
-<br>
+---
 
 <h2>📚 Currently Learning</h2>
 
-<p align="center">
+- 📊 Advanced Data Analytics
+- 🐍 Python for Data Science
+- 🗄️ SQL & Database Management
+- 🤖 Machine Learning
+- 📈 Data Visualization
+- 💡 Real-world Problem Solving
 
-<img src="https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/SQL-Database-orange?style=for-the-badge&logo=mysql">
-<img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=for-the-badge&logo=powerbi">
-<img src="https://img.shields.io/badge/Machine%20Learning-Learning-purple?style=for-the-badge">
+---
 
+<h2>💡 About Me</h2>
+
+<p>
+I am a final-year Computer Science and Business Systems student
+with a strong interest in Data Analytics, Python, SQL and Machine Learning.
 </p>
 
-<br>
+<p>
+I enjoy working with data, finding useful patterns, creating dashboards
+and turning complex problems into simple and practical solutions.
+</p>
 
-<h2>🌐 Connect With Me</h2>
+<p>
+🚀 Currently preparing for placements and continuously improving my
+technical and problem-solving skills.
+</p>
+
+---
+
+<h2>📫 Connect With Me</h2>
 
 <p align="center">
 
 <a href="https://github.com/sabari7813">
-<img src="https://img.shields.io/badge/GitHub-sabari7813-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-sabari7813-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Sabarinathan-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://sabarinathanportfolio7.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-green?style=for-the-badge&logo=google-chrome"/>
 </a>
 
 </p>
 
-<br>
+---
 
 <p align="center">
-<b>✨ Turning Data into Meaningful Insights ✨</b>
+  <b>⭐ Thanks for visiting my profile!</b>
+</p>
+
+<p align="center">
+  <i>Let's learn, build and grow together 🚀</i>
 </p>
