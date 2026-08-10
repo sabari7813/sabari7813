@@ -15,10 +15,10 @@
 <td width="35%" align="center" valign="middle">
 
 <img
-  src="./assets/project-profile.png"
+  src="https://raw.githubusercontent.com/sabari7813/sabari7813/main/assets/project-profile.png"
   width="100%"
   alt="Sabarinathan S working as a Data Analyst"
->
+/>
 
 </td>
 
