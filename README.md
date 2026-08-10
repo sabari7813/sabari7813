@@ -1,15 +1,12 @@
-<table width="100%" cellspacing="0" cellpadding="0">
-<tr>
+<p align="center">
+  <img
+    src="./assets/portfolio-banner.png"
+    width="100%"
+    alt="Sabarinathan S - Data Analyst"
+  />
+</p>
 
-<td width="35%" align="center" valign="middle">
-
-<img src="./assets/portfolio-banner.png"
-     width="100%"
-     alt="Sabarinathan S - Data Analyst">
-
-</td>
-
-<td width="65%" valign="top">
+<br>
 
 <h2>🚀 Key Projects</h2>
 
@@ -64,57 +61,14 @@ Portfolio
 
 <br>
 
-<p>
-<b>🎯 Focus:</b><br>
-Data Analytics • Python • SQL • Machine Learning
-</p>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
 <h2>🛠️ Technical Skills</h2>
 
 <table width="100%" cellspacing="0" cellpadding="8">
 <tr>
-
-<td align="center">
-<b>🐍 Python</b>
-</td>
-
-<td align="center">
-<b>🗄️ SQL</b>
-</td>
-
-<td align="center">
-<b>📊 Data Analytics</b>
-</td>
-
-<td align="center">
-<b>📈 Power BI</b>
-</td>
-
-<td align="center">
-<b>📗 Excel</b>
-</td>
-
+<td align="center"><b>🐍 Python</b></td>
+<td align="center"><b>🗄️ SQL</b></td>
+<td align="center"><b>📊 Data Analytics</b></td>
+<td align="center"><b>📈 Power BI</b></td>
+<td align="center"><b>📗 Excel</b></td>
 </tr>
 </table>
-
-<br>
-
-<h2>👨‍💻 About Me</h2>
-
-<p>
-I am a final-year Computer Science and Business Systems student
-passionate about Data Analytics, Python, SQL and Machine Learning.
-I enjoy analysing data, solving problems and building practical projects.
-</p>
-
-<p>
-I am continuously improving my technical skills and preparing for
-opportunities where I can apply my knowledge to real-world problems.
-</p>
