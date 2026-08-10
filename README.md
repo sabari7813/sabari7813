@@ -124,17 +124,45 @@ Data Analytics • Python • SQL • Machine Learning
 
 <p align="center">
 
+<h2>📊 GitHub Stats & Graphs</h2>
+
+<p align="center">
+
 <img
-  src="https://github-readme-stats.vercel.app/api?username=sabari7813&show_icons=true&theme=tokyonight&hide_border=false&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=sabari7813&show_icons=true&theme=tokyonight"
   alt="Sabarinathan GitHub Stats"
-  width="49%"
+  width="48%"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabari7813&layout=compact&theme=tokyonight&hide_border=false"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabari7813&layout=compact&theme=tokyonight"
   alt="Top Languages"
-  width="49%"
+  width="48%"
 />
+
+</p>
+
+<p align="center">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=sabari7813&theme=tokyonight"
+  alt="GitHub Streak"
+  width="70%"
+/>
+
+</p>
+
+<h2>📈 Contribution Graph</h2>
+
+<p align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=sabari7813&theme=tokyo-night"
+  alt="Sabarinathan Contribution Graph"
+  width="95%"
+/>
+
+</p>
 
 </p>
 
