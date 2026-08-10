@@ -186,7 +186,7 @@ Personal Portfolio
 
 <p align="center">
   <img
-    src="https://github-profile-trophy-liard-delta.vercel.app/?username=sabari7813&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=6"
+    src="./assets/trophy.svg"
     alt="Sabarinathan's GitHub Achievements"
     width="95%"
   />
