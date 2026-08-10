@@ -156,11 +156,9 @@ Personal Portfolio
 <br>
 
 <p align="center">
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=sabari7813&theme=tokyonight"
-  alt="Sabarinathan GitHub Streak"
-  width="65%"
-/>
-
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sabari7813&theme=tokyonight"
+    alt="Sabarinathan GitHub Streak"
+    width="65%"
+  />
 </p>
