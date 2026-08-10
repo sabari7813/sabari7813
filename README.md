@@ -4,9 +4,13 @@
   <b>Data Analyst | Python | SQL | Excel | Power BI</b>
 </p>
 
+<p align="center">
+  Turning data into meaningful insights and practical solutions.
+</p>
+
 <br>
 
-<!-- FIRST IMAGE -->
+<!-- ===================== FIRST IMAGE ===================== -->
 
 <p align="center">
   <img
@@ -18,51 +22,98 @@
 
 <br>
 
-<!-- KEY PROJECTS -->
+<!-- ===================== KEY PROJECTS ===================== -->
 
 <table width="100%">
 <tr>
 
-<td width="40%" align="center" valign="middle">
+<td width="35%" align="center" valign="middle">
 
 <img
   src="./assets/project-profile.png"
-  width="100%"
-  alt="Sabarinathan working on a computer"
+  width="90%"
+  alt="Profile"
 />
 
 </td>
 
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
 <h2>🚀 Key Projects</h2>
 
-<h3>🤖 AI Cost Watchdog</h3>
+<table width="100%">
+<tr>
+<th>Project</th>
+<th>Tech Stack</th>
+<th>Status</th>
+</tr>
+
+<tr>
+<td>
+<a href="#">Pharma Project</a>
+</td>
+<td>
+<code>Django</code> <code>JS</code>
+</td>
+<td>
+⭐ 25
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="#">FinEdge (ACS)</a>
+</td>
+<td>
+<code>Python</code> <code>Edge-ML</code>
+</td>
+<td>
+⭐ 12
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="#">ShanuDigiCore</a>
+</td>
+<td>
+<code>Django</code> <code>HTML/CSS</code>
+</td>
+<td>
+⭐ 8
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="#">Arcade Modules</a>
+</td>
+<td>
+<code>JS</code> <code>Physics</code>
+</td>
+<td>
+⭐ 5
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="#">Personal Portfolio</a>
+</td>
+<td>
+<code>React</code> <code>Tailwind</code>
+</td>
+<td>
+⭐ 4
+</td>
+</tr>
+
+</table>
+
+<br>
 
 <p>
-AI-based project focused on monitoring and analysing costs
-and improving cost efficiency.
-</p>
-
-<h3>🥛 Tracking Dairy</h3>
-
-<p>
-Data-driven project for tracking and analysing dairy-related
-information.
-</p>
-
-<h3>🌐 Personal Portfolio</h3>
-
-<p>
-Personal portfolio showcasing skills, projects and
-technical knowledge.
-</p>
-
-<h3>💻 100 Days Coding Challenge</h3>
-
-<p>
-A continuous coding journey focused on programming,
-problem-solving and consistency.
+💡 <i>"Turning ideas into real world solutions."</i>
 </p>
 
 </td>
@@ -71,6 +122,8 @@ problem-solving and consistency.
 </table>
 
 <br>
+
+<!-- ===================== GITHUB STATS ===================== -->
 
 <hr>
 
