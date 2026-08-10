@@ -127,28 +127,31 @@ Personal Portfolio
 
 <br>
 
-<p align="center">
+<table width="100%">
+<tr>
 
-
-<p align="center">
+<td width="50%" align="center">
 
 <img
   src="https://github-stats-extended.vercel.app/api?username=sabari7813&show_icons=true&theme=tokyonight&hide_border=false&count_private=true"
   alt="Sabarinathan GitHub Stats"
-  width="48%"
+  width="100%"
 />
+
+</td>
+
+<td width="50%" align="center">
 
 <img
   src="https://github-stats-extended.vercel.app/api/top-langs/?username=sabari7813&layout=compact&theme=tokyonight&hide_border=false"
   alt="Top Languages"
-  width="48%"
+  width="100%"
 />
 
-</p>
+</td>
 
-</p>
-
-</p>
+</tr>
+</table>
 
 <br>
 
