@@ -15,5 +15,5 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: sabari7813
-          output_path: assets/trophy.svg
+          file: assets/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
