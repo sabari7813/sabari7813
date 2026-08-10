@@ -3,23 +3,9 @@
 
 <td width="35%" align="center" valign="middle">
 
-<h2>👨‍💻</h2>
-
-<h3>SABARINATHAN S</h3>
-
-<p>
-<b>Data Analyst</b>
-</p>
-
-<p>
-Python • SQL • Excel • Power BI
-</p>
-
-<p>
-📊 Data Analytics<br>
-🤖 Machine Learning<br>
-💻 Problem Solving
-</p>
+<img src="./assets/portfolio-banner.png"
+     width="100%"
+     alt="Sabarinathan S - Data Analyst">
 
 </td>
 
