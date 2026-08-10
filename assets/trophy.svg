@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="180" viewBox="0 0 960 180">
+  <rect width="960" height="180" fill="#0d1117"/>
+  <style>
+    .card{fill:#111827;stroke:#238636;stroke-width:2}
+    .title{font:700 20px Arial;fill:#fff}
+    .grade{font:700 28px Arial;fill:#fff}
+    .name{font:700 16px Arial;fill:#fff}
+    .sub{font:12px Arial;fill:#aab4c3}
+  </style>
+  <g transform="translate(20,20)">
+    <rect class="card" width="140" height="140" rx="14"/>
+    <text x="115" y="30" class="grade" text-anchor="middle">SSS</text>
+    <text x="35" y="45" font-size="28">⚙</text>
+    <text x="70" y="82" class="name" text-anchor="middle">Architect</text>
+    <text x="70" y="105" class="sub" text-anchor="middle">Full-Stack Dev</text>
+  </g>
+  <g transform="translate(180,20)">
+    <rect class="card" width="140" height="140" rx="14"/>
+    <text x="115" y="30" class="grade" text-anchor="middle">S</text>
+    <text x="35" y="45" font-size="28">★</text>
+    <text x="70" y="82" class="name" text-anchor="middle">Open Source</text>
+    <text x="70" y="105" class="sub" text-anchor="middle">GitHub Badge</text>
+  </g>
+  <g transform="translate(340,20)">
+    <rect class="card" width="140" height="140" rx="14"/>
+    <text x="115" y="30" class="grade" text-anchor="middle">B</text>
+    <text x="35" y="45" font-size="28">★</text>
+    <text x="70" y="82" class="name" text-anchor="middle">Stargazer</text>
+    <text x="70" y="105" class="sub" text-anchor="middle">Stars 5</text>
+  </g>
+  <g transform="translate(500,20)">
+    <rect class="card" width="140" height="140" rx="14"/>
+    <text x="115" y="30" class="grade" text-anchor="middle">B</text>
+    <text x="35" y="45" font-size="28">♥</text>
+    <text x="70" y="82" class="name" text-anchor="middle">Rising Star</text>
+    <text x="70" y="105" class="sub" text-anchor="middle">Followers 2</text>
+  </g>
+  <g transform="translate(660,20)">
+    <rect class="card" width="140" height="140" rx="14"/>
+    <text x="115" y="30" class="grade" text-anchor="middle">B</text>
+    <text x="35" y="45" font-size="28">▱</text>
+    <text x="70" y="82" class="name" text-anchor="middle">Committer</text>
+    <text x="70" y="105" class="sub" text-anchor="middle">Commits 73</text>
+  </g>
+  <g transform="translate(820,20)">
+    <rect class="card" width="120" height="140" rx="14"/>
+    <text x="95" y="30" class="grade" text-anchor="middle">B</text>
+    <text x="25" y="45" font-size="28">◈</text>
+    <text x="60" y="82" class="name" text-anchor="middle">Creator</text>
+    <text x="60" y="105" class="sub" text-anchor="middle">Repos 8</text>
+  </g>
+</svg>
