@@ -182,12 +182,11 @@ Personal Portfolio
 
 <!-- ===================== GITHUB ACHIEVEMENTS ===================== -->
 
-
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
   <img
-    src="https://github-profile-trophy-liard-delta.vercel.app/?username=sabari7813&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=6"
+    src="https://github-profile-trophy.vercel.app/?username=sabari7813&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=6"
     alt="Sabari Nathan's GitHub Achievements"
     width="95%"
   />
