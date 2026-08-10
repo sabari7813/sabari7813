@@ -33,22 +33,6 @@
   alt="Sabarinathan S working as a Data Analyst"
 />
 
-<br><br>
-
-<h3>SABARINATHAN S</h3>
-
-<p><b>Data Analyst</b></p>
-
-<p>
-🐍 Python • 🗄️ SQL • 📊 Excel • 📈 Power BI
-</p>
-
-<p>
-📊 Data Analytics<br>
-🤖 Machine Learning<br>
-💻 Problem Solving
-</p>
-
 </td>
 
 <td width="65%" valign="top">
