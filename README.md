@@ -127,7 +127,7 @@ Personal Portfolio
 
 <br>
 
-<table width="100%">
+<table width="85%" align="center">
 <tr>
 
 <td width="50%" align="center">
@@ -135,7 +135,7 @@ Personal Portfolio
 <img
   src="https://github-stats-extended.vercel.app/api?username=sabari7813&show_icons=true&theme=tokyonight&hide_border=false&count_private=true"
   alt="Sabarinathan GitHub Stats"
-  width="100%"
+  width="95%"
 />
 
 </td>
@@ -145,7 +145,7 @@ Personal Portfolio
 <img
   src="https://github-stats-extended.vercel.app/api/top-langs/?username=sabari7813&layout=compact&theme=tokyonight&hide_border=false"
   alt="Top Languages"
-  width="100%"
+  width="95%"
 />
 
 </td>
@@ -160,7 +160,7 @@ Personal Portfolio
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=sabari7813&theme=tokyonight"
   alt="Sabarinathan GitHub Streak"
-  width="70%"
+  width="65%"
 />
 
 </p>
