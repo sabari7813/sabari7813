@@ -50,61 +50,57 @@
 
 <tr>
 <td>
-<a href="#">Pharma Project</a>
+<a href="https://github.com/sabari7813/ai-cost-watchdog">
+AI Cost Watchdog
+</a>
 </td>
 <td>
-<code>Django</code> <code>JS</code>
+<code>Python</code> <code>Streamlit</code>
 </td>
 <td>
-⭐ 25
-</td>
-</tr>
-
-<tr>
-<td>
-<a href="#">FinEdge (ACS)</a>
-</td>
-<td>
-<code>Python</code> <code>Edge-ML</code>
-</td>
-<td>
-⭐ 12
+⭐ 1
 </td>
 </tr>
 
 <tr>
 <td>
-<a href="#">ShanuDigiCore</a>
+<a href="https://github.com/sabari7813/tracking-dairy">
+Tracking Dairy
+</a>
 </td>
 <td>
-<code>Django</code> <code>HTML/CSS</code>
+<code>HTML</code>
 </td>
 <td>
-⭐ 8
-</td>
-</tr>
-
-<tr>
-<td>
-<a href="#">Arcade Modules</a>
-</td>
-<td>
-<code>JS</code> <code>Physics</code>
-</td>
-<td>
-⭐ 5
+⭐ 0
 </td>
 </tr>
 
 <tr>
 <td>
-<a href="#">Personal Portfolio</a>
+<a href="https://github.com/sabari7813/portfolio">
+Personal Portfolio
+</a>
 </td>
 <td>
-<code>React</code> <code>Tailwind</code>
+<code>HTML</code> <code>CSS</code> <code>JavaScript</code>
 </td>
 <td>
-⭐ 4
+⭐ 1
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/sabari7813/100-_days_coding_challenges">
+100 Days Coding Challenges
+</a>
+</td>
+<td>
+<code>Python</code>
+</td>
+<td>
+⭐ 0
 </td>
 </tr>
 
