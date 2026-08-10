@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="./ChatGPT%20Image%20Aug%2010,%202026,%2002_05_58%20PM.png"
+    src="./assets/portfolio-banner.png"
     width="100%"
     alt="Sabarinathan S - Data Analyst"
   />
