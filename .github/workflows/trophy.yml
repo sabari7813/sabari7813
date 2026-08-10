@@ -1,19 +1,19 @@
 name: GitHub Trophy
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   trophy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate GitHub Trophy
-        uses: ryo-ma/github-profile-trophy@master
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: sabari7813
-          output_path: ./assets/trophy.svg
-          theme: discord
-          columns: 6
+          output_path: assets/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
