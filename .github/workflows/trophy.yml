@@ -1,0 +1,19 @@
+name: GitHub Trophy
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  trophy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate GitHub Trophy
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          username: sabari7813
+          output_path: ./assets/trophy.svg
+          theme: discord
+          columns: 6
