@@ -179,3 +179,24 @@ Personal Portfolio
 </p>
 
 <br>
+<!-- ===================== SUPPORT ===================== -->
+<h2 align="center">☕ Support Me</h2>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/sabari7813">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
+  </a>
+</p>
+<br>
+
+<!-- ===================== QUOTE / FOOTER ===================== -->
+<hr>
+<p align="center">
+  <i>💬 "Data is the new oil, but insights are the real fuel."</i>
+</p>
+<br>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=sabari7813&label=Profile%20Views&color=blueviolet&style=flat"
+    alt="Profile Views"
+  />
+</p>
