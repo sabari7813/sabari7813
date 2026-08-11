@@ -204,5 +204,5 @@ Personal Portfolio
 </p>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/📈_Where_numbers_meet_narrative-1E90FF?style=for-the-badge&labelColor=1E90FF&color=1E90FF" alt="tagline"/>
+  <i>📈 Where numbers meet narrative 🚀</i>
 </p>
