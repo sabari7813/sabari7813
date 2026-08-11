@@ -207,5 +207,5 @@ Personal Portfolio
   <i>📈 Where numbers meet narrative 🚀</i>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aygven/aygven/master/rocket.gif" width="100%" alt="rocket"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting%20🚀&fontSize=22&fontColor=ffffff&animation=twinkling"/>
 </p>
