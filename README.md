@@ -207,5 +207,7 @@ Personal Portfolio
   <i>📈 Where numbers meet narrative 🚀</i>
 </p>
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting%20🚀&fontSize=22&fontColor=ffffff&animation=twinkling"/>
+  <a href="https://github.com/sabari7813">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%9A%80;Let's+build+something+great+together!" alt="Typing SVG"/>
+  </a>
 </p>
