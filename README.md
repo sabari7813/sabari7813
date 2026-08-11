@@ -184,7 +184,7 @@ Personal Portfolio
 <h2 align="center">🏆 GitHub Achievements</h2>
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=sabari7813&theme=tokyonight&no-frame=false&no-bg=true&margin-w=15&row=1&column=7"
+    src="https://github-profile-trophy.vercel.app/?username=sabari7813&theme=onedark&no-frame=false&row=1&column=7"
     alt="Sabarinathan's GitHub Trophies"
     width="95%"
   />
