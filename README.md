@@ -179,14 +179,3 @@ Personal Portfolio
 </p>
 
 <br>
-
-<!-- ===================== GITHUB ACHIEVEMENTS ===================== -->
-<h2 align="center">🏆 GitHub Achievements</h2>
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=sabari7813&theme=onedark&no-frame=false&row=1&column=7"
-    alt="Sabarinathan's GitHub Trophies"
-    width="95%"
-  />
-</p>
-<br>
