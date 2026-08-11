@@ -204,5 +204,5 @@ Personal Portfolio
 </p>
 <br>
 <p align="center">
-  <i>⭐ Always learning, always building. 🚀</i>
+  <img src="https://img.shields.io/badge/📈_Where_numbers_meet_narrative-6C63FF?style=for-the-badge" alt="tagline"/>
 </p>
