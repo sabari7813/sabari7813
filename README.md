@@ -179,19 +179,21 @@ Personal Portfolio
 </p>
 
 <br>
-<!-- ===================== SUPPORT ===================== -->
-<h2 align="center">☕ Support Me</h2>
+<!-- ===================== LET'S CONNECT ===================== -->
+<h2 align="center">🧡 Let's Connect</h2>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/sabari7813">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
+  <a href="mailto:sabarinathan0828@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
-<br>
-
-<!-- ===================== QUOTE / FOOTER ===================== -->
-<hr>
-<p align="center">
-  <i>💬 "Data is the new oil, but insights are the real fuel."</i>
+  <a href="https://www.linkedin.com/in/sabarinathans29/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://sabarinathanportfolio7.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/sabari7813">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 <br>
 <p align="center">
@@ -199,4 +201,8 @@ Personal Portfolio
     src="https://komarev.com/ghpvc/?username=sabari7813&label=Profile%20Views&color=blueviolet&style=flat"
     alt="Profile Views"
   />
+</p>
+<br>
+<p align="center">
+  <i>⭐ Always learning, always building. 🚀</i>
 </p>
