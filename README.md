@@ -181,15 +181,12 @@ Personal Portfolio
 <br>
 
 <!-- ===================== GITHUB ACHIEVEMENTS ===================== -->
-
 <h2 align="center">🏆 GitHub Achievements</h2>
-
 <p align="center">
   <img
-    src="./assets/trophy.svg"
-    alt="Sabarinathan's GitHub Achievements"
+    src="https://github-profile-trophy.vercel.app/?username=sabari7813&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15&row=1&column=7"
+    alt="Sabarinathan's GitHub Trophies"
     width="95%"
   />
 </p>
-
 <br>
