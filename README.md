@@ -206,4 +206,6 @@ Personal Portfolio
 <p align="center">
   <i>📈 Where numbers meet narrative 🚀</i>
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8360c3,100:2ebf91&height=150&section=footer"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aygven/aygven/master/rocket.gif" width="100%" alt="rocket"/>
+</p>
