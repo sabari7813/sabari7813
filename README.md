@@ -11,12 +11,6 @@ Turning data into meaningful insights and practical solutions.
 <br>
 
 <!-- ===================== TYPING TERMINAL ===================== -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&background=0D1117&center=false&vCenter=true&width=600&height=100&lines=sabari%40data-analyst%3A~+%24+cat+README.md;Turning+raw+data+into+meaningful+insights..."
-    alt="Terminal Typing"
-  />
-</p>
 
 <br>
 
