@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/sabari7813">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Sabarinathan+S;DATA+ANALYST" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0D1117&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Sabarinathan+S;DATA+ANALYST" alt="Typing SVG" />
   </a>
 </h1>
 
