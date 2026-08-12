@@ -4,9 +4,6 @@
   </a>
 </h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24,26&height=3&section=header&width=800" />
-</p>
 <!-- ===================== HERO BANNER ===================== -->
 <p align="center">
   <img
