@@ -149,7 +149,7 @@ Personal Portfolio
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=sabari7813&theme=tokyonight"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=sabari7813&theme=tokyonight"
     alt="Sabarinathan GitHub Streak"
     width="65%"
   />
